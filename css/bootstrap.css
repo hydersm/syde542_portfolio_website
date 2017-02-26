@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=4fc88de9d0e66b87a64a2a29ed6cc184)
- * Config saved to config.json and https://gist.github.com/4fc88de9d0e66b87a64a2a29ed6cc184
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=115b989bd9e24140bf76b119767242a6)
+ * Config saved to config.json and https://gist.github.com/115b989bd9e24140bf76b119767242a6
  */
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
@@ -1600,12 +1600,12 @@ pre code {
 }
 @media (min-width: 992px) {
   .container {
-    width: 970px;
+    width: 750x;
   }
 }
 @media (min-width: 1200px) {
   .container {
-    width: 970px;
+    width: 750px;
   }
 }
 .container-fluid {
